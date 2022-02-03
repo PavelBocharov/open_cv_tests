@@ -1,4 +1,4 @@
-package com.mar.utils;
+package com.mar.haar;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
